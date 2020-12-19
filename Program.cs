@@ -6,7 +6,7 @@ namespace Тренировка
     {
         static void Main(string[] args)
         {
-            string text = "#bug @Iona_M чини блять";
+            string text = "#bug @I чини блять";
             string[] textobt = text.Split(' ');
 
 
@@ -15,7 +15,7 @@ namespace Тренировка
                 Console.WriteLine(i);
             }
 
-
+            
 
 
 
